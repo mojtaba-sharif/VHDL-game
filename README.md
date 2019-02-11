@@ -1,1 +1,1 @@
-# VHDL-game-
+# vhdl-game
